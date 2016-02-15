@@ -1,0 +1,99 @@
+[hahmed11][teaching][~/Desktop/ECSE 427/4] ./malloc
+No policy allocated
+
+
+Current policy: First Fit
+Bytes allocated: 0
+Amount of free space: 0
+Largest contiguous free space: 0
+Total number of my_malloc() calls: 0
+/-------------------------------------------------------------------------------/
+Error in memory allocation of requested space, my_malloc() call failed
+
+/-------------------------------------------------------------------------------/
+Running test case 1...
+Current policy: Best Fit
+Bytes allocated: 2048
+Amount of free space: 14336
+Largest contiguous free space: 14336
+Total number of my_malloc() calls: 2
+Current address: 0xce6408
+Bytes allocation successful.
+Bytes freed successfully.
+Largest contiguous block is valid.
+/-------------------------------------------------------------------------------/
+Running test case 2...
+Current address: 0xce6c10
+Bytes allocation successful.
+Bytes freed successfully.
+Largest contiguous block is valid.
+Current policy: Best Fit
+Bytes allocated: 10240
+Amount of free space: 6136
+Largest contiguous free space: 6136
+Total number of my_malloc() calls: 3
+/-------------------------------------------------------------------------------/
+Running test case 3...
+Bytes allocation successful.
+Bytes freed successfully.
+Largest contiguous block is valid.
+Current policy: Best Fit
+Bytes allocated: 8192
+Amount of free space: 8192
+Largest contiguous free space: 6136
+Total number of my_malloc() calls: 3
+/-------------------------------------------------------------------------------/
+Running test case 4...
+ 0 extra bytes were allocated to complete malloc() request
+Current address: 0xce6408
+Bytes allocation successful.
+Bytes freed successfully.
+Largest contiguous block is valid.
+Current policy: Best Fit
+Bytes allocated: 10240
+Amount of free space: 6136
+Largest contiguous free space: 6136
+Total number of my_malloc() calls: 4
+/-------------------------------------------------------------------------------/
+Running test case 5...
+Bytes allocation successful.
+Bytes freed successfully.
+Largest contiguous block is valid.
+Current policy: Best Fit
+Bytes allocated: 8192
+Amount of free space: 8192
+Largest contiguous free space: 6136
+Total number of my_malloc() calls: 4
+/-------------------------------------------------------------------------------/
+Running test case 6...
+Current address: 0xcea410
+Current policy: Best Fit
+Bytes allocated: 23192
+Amount of free space: 9576
+Largest contiguous free space: 6136
+Total number of my_malloc() calls: 5
+Bytes allocation successful.
+Bytes freed successfully.
+Largest contiguous block is valid.
+/-------------------------------------------------------------------------------/
+Running test case 7...
+Bytes allocation successful.
+Bytes freed successfully.
+Largest contiguous block is valid.
+Current policy: Best Fit
+Bytes allocated: 15000
+Amount of free space: 17776
+Largest contiguous free space: 16392
+Total number of my_malloc() calls: 5
+/-------------------------------------------------------------------------------/
+Bytes allocation successful.
+Bytes freed successfully.
+Largest contiguous block is valid.
+Current policy: Best Fit
+Bytes allocated: 0
+Amount of free space: 32784
+Largest contiguous free space: 32784
+Total number of my_malloc() calls: 5
+/-------------------------------------------------------------------------------/
+All test cases have been run
+[hahmed11][teaching][~/Desktop/ECSE 427/4]
